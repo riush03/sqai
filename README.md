@@ -2,7 +2,8 @@
 
 Run your business with the help of AI. Get insights with detailed customer analysis, ability to rewrite your descriptions to target specific demographics and generate new product ideas tailored to your business.
 
-Demo: https://square-ai.onrender.com/
+## Updates
+  This project is an update of https://github.com/jimicy/square-ai/
 
 ## Key Features
 1. Popular Product Analysis
